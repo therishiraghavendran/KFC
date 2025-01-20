@@ -8,10 +8,7 @@ This is a simple web-based project designed to replicate a KFC online ordering s
 - [Technologies Used](#technologies-used)
 - [Pages](#pages)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 The KFC Web Project aims to provide a simple, clean, and user-friendly interface for browsing menu items, adding them to the cart, and proceeding through a mock payment process. This project is perfect for practicing basic web development skills, focusing on layout, styling, and user interaction.
